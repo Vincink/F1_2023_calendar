@@ -1,0 +1,80 @@
+{
+  "Bahrain" : {
+    "course" : {
+      "date" : "3 mars 2023",
+      "heure" : ""
+    },
+    "qualif" : {
+      "date" : "4 mars 2023",
+      "heure" : ""
+    },
+    "pratice3" : {
+      "date" : "4 mars 2023",
+      "heure" : ""
+    },
+    "sprint" : {
+      "date" : "",
+      "heure" : ""
+    },
+    "pratice1" : {
+      "date" : "3 mars 2023",
+      "heure" : ""
+    },
+    "pratice2" : {
+      "date" : " 3 mars 2023",
+      "heure" : ""
+    }
+  },
+  "Arabie Saoudite" : {
+    "qualif" : {
+      "heure" : "",
+      "date" : "18 mars 2023"
+    },
+    "pratice1" : {
+      "heure" : "",
+      "date" : "17 mars 2023"
+    },
+    "pratice2" : {
+      "heure" : "",
+      "date" : "17 mars 2023"
+    },
+    "course" : {
+      "heure" : "",
+      "date" : "19 mars 2023"
+    },
+    "pratice3" : {
+      "heure" : "",
+      "date" : "18 mars 2023"
+    },
+    "sprint" : {
+      "heure" : "",
+      "date" : ""
+    }
+  },
+"Australie" : {
+    "qualif" : {
+      "heure" : "",
+      "date" : "1 avril 2023"
+    },
+    "pratice1" : {
+      "heure" : "",
+      "date" : "31 mars 2023"
+    },
+    "pratice2" : {
+      "heure" : "",
+      "date" : "31 mars 2023"
+    },
+    "course" : {
+      "heure" : "",
+      "date" : "2 avril 2023"
+    },
+    "pratice3" : {
+      "heure" : "",
+      "date" : "1 avril 2023"
+    },
+    "sprint" : {
+      "heure" : "",
+      "date" : ""
+    }
+  }
+}

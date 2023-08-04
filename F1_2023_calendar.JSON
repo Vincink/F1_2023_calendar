@@ -102,5 +102,109 @@
       "heure" : "",
       "date" : "29 avril 2023"
     }
+  },
+"Miami" : {
+    "qualif" : {
+      "heure" : "",
+      "date" : "6 mai 2023"
+    },
+    "pratice1" : {
+      "heure" : "",
+      "date" : "5 mai 2023"
+    },
+    "pratice2" : {
+      "heure" : "",
+      "date" : "5 mai 2023"
+    },
+    "course" : {
+      "heure" : "",
+      "date" : "30 avril 2023"
+    },
+    "pratice3" : {
+      "heure" : "",
+      "date" : "6 mai 2023"
+    },
+    "sprint" : {
+      "heure" : "",
+      "date" : ""
+    }
+  },
+"Italie" : {
+    "qualif" : {
+      "heure" : "",
+      "date" : ""
+    },
+    "pratice1" : {
+      "heure" : "",
+      "date" : ""
+    },
+    "pratice2" : {
+      "heure" : "",
+      "date" : ""
+    },
+    "course" : {
+      "heure" : "",
+      "date" : ""
+    },
+    "pratice3" : {
+      "heure" : "",
+      "date" : ""
+    },
+    "sprint" : {
+      "heure" : "",
+      "date" : ""
+    }
+  },
+"Monaco" : {
+    "qualif" : {
+      "heure" : "",
+      "date" : "27 mai 2023"
+    },
+    "pratice1" : {
+      "heure" : "",
+      "date" : "26 mai 2023"
+    },
+    "pratice2" : {
+      "heure" : "",
+      "date" : "26 mai 2023"
+    },
+    "course" : {
+      "heure" : "",
+      "date" : "28 mai 2023"
+    },
+    "pratice3" : {
+      "heure" : "",
+      "date" : "27 mai 2023"
+    },
+    "sprint" : {
+      "heure" : "",
+      "date" : ""
+    }
+  },
+"Espagne" : {
+    "qualif" : {
+      "heure" : "",
+      "date" : "3 juin 2023"
+    },
+    "pratice1" : {
+      "heure" : "",
+      "date" : "2 juin 2023"
+    },
+    "pratice2" : {
+      "heure" : "",
+      "date" : "2 juin 2023"
+    },
+    "course" : {
+      "heure" : "",
+      "date" : "4 juin 2023"
+    },
+    "pratice3" : {
+      "heure" : "",
+      "date" : "3 juin 2023"
+    },
+    "sprint" : {
+      "heure" : "",
+      "date" : ""
+    }
   }
 }

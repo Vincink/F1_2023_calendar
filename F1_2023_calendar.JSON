@@ -76,5 +76,31 @@
       "heure" : "",
       "date" : ""
     }
+  },
+"Azerbaijan" : {
+    "qualif" : {
+      "heure" : "",
+      "date" : "28 avril 2023"
+    },
+    "pratice1" : {
+      "heure" : "",
+      "date" : "28 avril 2023"
+    },
+    "pratice2" : {
+      "heure" : "",
+      "date" : ""
+    },
+    "course" : {
+      "heure" : "",
+      "date" : "30 avril 2023"
+    },
+    "pratice3" : {
+      "heure" : "",
+      "date" : ""
+    },
+    "sprint" : {
+      "heure" : "",
+      "date" : "29 avril 2023"
+    }
   }
 }

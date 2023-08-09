@@ -1,57 +1,5 @@
 {
   "2023" : {
-    "Arabie Saoudite" : {
-      "pratice3" : {
-        "date" : "",
-        "heure" : ""
-      },
-      "pratice1" : {
-        "date" : "",
-        "heure" : ""
-      },
-      "sprint" : {
-        "date" : "",
-        "heure" : ""
-      },
-      "course" : {
-        "date" : "",
-        "heure" : ""
-      },
-      "qualif" : {
-        "date" : "",
-        "heure" : ""
-      },
-      "pratice2" : {
-        "date" : "",
-        "heure" : ""
-      }
-    },
-    "Bahrain" : {
-      "course" : {
-        "heure" : "15h00",
-        "date" : "6 mars"
-      },
-      "pratice2" : {
-        "heure" : "12h00",
-        "date" : " 4 mars"
-      },
-      "sprint" : {
-        "heure" : "14h00",
-        "date" : "5 mars"
-      },
-      "qualif" : {
-        "heure" : "12h00",
-        "date" : "6 mars"
-      },
-      "pratice3" : {
-        "heure" : "12h00",
-        "date" : "4 mars"
-      },
-      "pratice1" : {
-        "heure" : "12h00",
-        "date" : "3 mars"
-      }
-    },
     "Netherlands" : {
       "pratice3" : {
         "date" : "26 aug",

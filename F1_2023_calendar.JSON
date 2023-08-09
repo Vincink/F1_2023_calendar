@@ -51,8 +51,8 @@
         "heure" : "12h00",
         "date" : "3 mars"
       },
-      "Netherlands" : {
-      "pratice3" : {
+    "Netherlands" : {
+  		"pratice3" : {
         "date" : "26 aug",
         "heure" : "11h30"
       },
@@ -75,7 +75,7 @@
       "pratice2" : {
         "date" : "25 aug",
         "heure" : "16h00"
-      },
+      }
     }
   }
 }

@@ -50,7 +50,32 @@
       "pratice1" : {
         "heure" : "12h00",
         "date" : "3 mars"
-      }
+      },
+      "Netherlands" : {
+      "pratice3" : {
+        "date" : "26 aug",
+        "heure" : "11h30"
+      },
+      "pratice1" : {
+        "date" : "25 aug",
+        "heure" : "12h30"
+      },
+      "sprint" : {
+        "date" : "",
+        "heure" : ""
+      },
+      "course" : {
+        "date" : "27 aug",
+        "heure" : "15h00"
+      },
+      "qualif" : {
+        "date" : "26 aug",
+        "heure" : "15h00"
+      },
+      "pratice2" : {
+        "date" : "25 aug",
+        "heure" : "16h00"
+      },
     }
   }
 }

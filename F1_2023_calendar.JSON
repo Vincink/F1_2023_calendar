@@ -29,11 +29,11 @@
     "Bahrain" : {
       "course" : {
         "heure" : "15h00",
-        "date" : "6 mars 2023"
+        "date" : "6 mars"
       },
       "pratice2" : {
         "heure" : "12h00",
-        "date" : " 4 mars 2023"
+        "date" : " 4 mars"
       },
       "sprint" : {
         "heure" : "",
@@ -41,15 +41,15 @@
       },
       "qualif" : {
         "heure" : "12h00",
-        "date" : "6 mars 2023"
+        "date" : "6 mars"
       },
       "pratice3" : {
         "heure" : "12h00",
-        "date" : "4 mars 2023"
+        "date" : "4 mars"
       },
       "pratice1" : {
         "heure" : "12h00",
-        "date" : "3 mars 2023"
+        "date" : "3 mars"
       }
     }
   }
